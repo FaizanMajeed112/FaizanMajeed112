@@ -3,11 +3,11 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Final+Year+CS+Student+from+Pakistan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Engineer;Deep+Learning;Python+Developer+from+Pakistan" />
 </h2>
 
 <p align="center">
-  🚀 AI Developer | 🧠 ML Enthusiast | 🇵🇰 Pakistan  
+  🚀 AI Developer | 🧠 AI/ML Engineer  | 🇵🇰 Pakistan  
 </p>
 
 <p align="center">
@@ -17,9 +17,8 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Final Year Computer Science Student  
 - 🤖 Passionate about **AI, Machine Learning & Deep Learning**
-- 🐾 Working on **AI-Based Pets Breed Recognition & E-Service Hub**
+- 🐾 Final Year Project **AI-Based Pets Breed Recognition & E-Service Hub**
 - 💡 Love building **real-world AI products**
 - 🎯 Goal: **AI Engineer / ML Engineer**
 
@@ -28,9 +27,8 @@
 ## 🚧 Current Focus
 | 💡 Area | 🔍 Details |
 |------|---------|
-| 🎓 Final Year Project | AI-Based Automated Platform for Pets Breed Recognition |
-| 📚 Learning | ML, DL, Model Optimization, AI Integration |
-| 🤝 Looking for | AI/ML Internship & Research Collaboration |
+| 📚 High Learning | ML, DL, Model Optimization, AI Integration |
+| 🤝 Looking for | AI/ML Job & Research Collaboration |
 | 💬 Ask Me About | Python, ML, DL, AI Projects |
 
 ---
@@ -58,12 +56,10 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 **AI-Based Pets Breed Recognition System**  
-🔹 **Dog & Cat Breed Classification (ResNet-50, PyTorch)**  
-🔹 **Credit Card Fraud Detection (XGBoost, LightGBM)**  
+🔹 **AI-Based Pets Breed Recognition System**(FYP)
 🔹 **Recipe Cuisine Classifier (ML NLP Project)**  
-🔹 **Sentiment Analysis on Financial News**
-
+🔹 **Tutor-Rag-Voice-Assistant (Internship Final Project)
+Completed multiple internship tasks involving data preprocessing, model building, evaluation, and result analysis using Python and machine learning techniques.**  
 ➡️ *More projects available on my repositories*
 
 ---
