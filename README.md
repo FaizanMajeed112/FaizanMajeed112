@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Engineer;Deep+Learning;Python+Developer+from+Pakistan" />
 </h2>
 
-<p align="center">
-  🚀 AI Developer | 🧠 AI/ML Engineer  | 🇵🇰 Pakistan  
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizanmajeed112&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -75,11 +68,9 @@ Completed multiple internship tasks involving data preprocessing, model building
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizanmajeed112&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=faizanmajeed112&theme=flat" />
+
 
 ---
 
