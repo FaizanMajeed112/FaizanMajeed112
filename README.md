@@ -69,13 +69,8 @@ Completed multiple internship tasks involving data preprocessing, model building
 
 ---
 ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=faizanmajeed112&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=faizanmajeed112&theme=flat&margin-w=15" 
-    alt="GitHub Trophies"
-  />
-</p>
 
 --- 
 
