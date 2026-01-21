@@ -68,18 +68,23 @@ Completed multiple internship tasks involving data preprocessing, model building
 </p>
 
 ---
-## 📊 GitHub Activity & Performance
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanmajeed112&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanmajeed112&theme=tokyonight" height="160"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=faizanmajeed112&theme=flat&margin-w=15" 
+    alt="GitHub Trophies"
+  />
 </p>
+
+--- 
+
+## 🏅 Featured Work & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanmajeed112&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizanmajeed112&repo=web-encryption-tool&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=faizanmajeed112&repo=pet-breed-recognition&theme=tokyonight" />
 </p>
-
-
 ---
 
 ## 🐍 Contribution Snake
