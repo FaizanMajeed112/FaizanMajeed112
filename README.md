@@ -68,8 +68,16 @@ Completed multiple internship tasks involving data preprocessing, model building
 </p>
 
 ---
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=faizanmajeed112&theme=flat" />
+## 📊 GitHub Activity & Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizanmajeed112&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanmajeed112&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanmajeed112&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 
 ---
@@ -80,6 +88,13 @@ Completed multiple internship tasks involving data preprocessing, model building
 </p>
 
 ---
+
+## 🏆 Achievements
+- ✅ Completed AI/ML Internship (DevelopersHub Corporation)
+- 🧠 Built Deep Learning models using ResNet & CNNs
+- 🐾 Developed AI-based Pet Breed Recognition System
+- 🔐 Built a Web-Based Text Encryption Tool
+- 📚 Published multiple ML projects on GitHub & Kaggle
 
 ## 💡 Quote
 > *“The future belongs to those who believe in the beauty of their dreams.”*  
