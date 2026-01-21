@@ -21,7 +21,7 @@
 
 | 💡 Field                                                                                                                | 💬 Description                                                               |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| ![Work](https://img.shields.io/badge/-Currently_Working_On-00bcd4?style=for-the-badge\&logo=github)                     | **AI-Based Automated Platform for Pets Breed Recognition and E-Service Hub** |
+| ![Work](https://img.shields.io/badge/-Final_Year_Project-00bcd4?style=for-the-badge\&logo=github)                     | **AI-Based Automated Platform for Pets Breed Recognition and E-Service Hub** |
 | ![Learning](https://img.shields.io/badge/-Currently_Learning-673ab7?style=for-the-badge\&logo=python\&logoColor=white)  | **Machine Learning, Deep Learning, and AI Integration**                      |
 | ![Help](https://img.shields.io/badge/-Looking_For_Help_With-f44336?style=for-the-badge\&logo=opsgenie\&logoColor=white) | **Model Training & Optimization**                                            |
 | ![Ask](https://img.shields.io/badge/-Ask_Me_About-4caf50?style=for-the-badge\&logo=stackoverflow\&logoColor=white)      | **Python, AI/ML, or Web Development**                                        |
